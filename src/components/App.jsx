@@ -1,6 +1,6 @@
 import { Route, Routes } from 'react-router-dom';
 import { lazy } from 'react';
-import Layout from './Layout/Layout';
+import Layout from './Layout/Layout.jsx';
 import NotFound from 'page/NotFound/NotFound.styled';
 
 const Home = lazy(() => import('../page/Home/Home.jsx'));

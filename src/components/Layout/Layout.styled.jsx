@@ -5,7 +5,7 @@ export const HeaderContainer = styled.header`
   display: flex;
   align-items: center;
   min-height: 39px;
-  padding: 10px 70px;
+  padding: 10px 60px;
   color: #fff;
   background-color: #c8f4f7;
   box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.2),
