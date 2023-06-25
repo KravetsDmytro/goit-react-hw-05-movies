@@ -1,7 +1,7 @@
 import { HeaderContainer, Link } from './Layout.styled';
 import { Outlet } from 'react-router-dom';
 import { Suspense } from 'react';
-import Loader from '../Loader/Loader.jsx';
+import Loader from 'components/Loader/Loader';
 
 export default function Layout() {
   return (

@@ -1,7 +1,7 @@
 import styled from '@emotion/styled';
 
 export const FormContainer = styled.div`
-  width: 320px;
+  width: 420px;
   margin: 30px auto;
 `;
 
@@ -16,7 +16,7 @@ export const Input = styled.input`
   border-bottom: 1px solid #5db09d;
   background-color: transparent;
   color: #42362b;
-  font-size: 14px;
+  font-size: 16px;
 
   transition: border 250ms linear;
 

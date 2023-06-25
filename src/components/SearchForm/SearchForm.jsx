@@ -29,7 +29,7 @@ export default function SearchForm({ formSubmit, errorMessage }) {
           value={query}
           onChange={handleInput}
           autoComplete="off"
-          placeholder="find a movie"
+          placeholder="Пошук фільму"
         />
         <Button type="submit"></Button>
       </Form>
