@@ -1,13 +1,14 @@
-// import { Dna } from 'react-loader-spinner'
+import { InfinitySpin } from 'react-loader-spinner';
+import { Container } from './Loader.styled';
 
-// const Loader = () => {
-//   return (
-// <Dna
-// visible={true}
-// height="80"
-// width="80"
-// ariaLabel="dna-loading"
-// wrapperStyle={{}}
-// wrapperClass="dna-wrapper"
-// />)}
-// export default Loader;
+const Loader = () => {
+  return (
+    <Container>
+     <InfinitySpin
+  width='200'
+  color="#4fa94d"
+/>
+    </Container>
+  );
+};
+export default Loader

@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
 
 import { List } from './MovieList.styled';
-import MovieListItem from 'components/movieListItem/MovieListItem';
+import MovieListItem from 'components/MovieListItem/MovieListItem';
 
 export default function MovieList({ movies }) {
   return (
