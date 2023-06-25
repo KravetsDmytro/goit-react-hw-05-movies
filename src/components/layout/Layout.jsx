@@ -3,7 +3,7 @@ import { Outlet } from 'react-router-dom';
 import { Suspense } from 'react';
 import Loader from 'components/Loader/Loader';
 
-export default function Layout() {
+ function Layout() {
   return (
     <>
       <HeaderContainer>
@@ -19,3 +19,4 @@ export default function Layout() {
     </>
   );
 }
+export default Layout;
