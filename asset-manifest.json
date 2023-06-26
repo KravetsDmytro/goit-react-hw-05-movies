@@ -1,13 +1,25 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-05-movies/static/css/main.7acaea2f.css",
-    "main.js": "/goit-react-hw-05-movies/static/js/main.5c0eb81e.js",
+    "main.css": "/goit-react-hw-05-movies/static/css/main.5c15e484.css",
+    "main.js": "/goit-react-hw-05-movies/static/js/main.cecb150d.js",
+    "static/js/749.e452bd8f.chunk.js": "/goit-react-hw-05-movies/static/js/749.e452bd8f.chunk.js",
+    "static/js/36.3d3e883c.chunk.js": "/goit-react-hw-05-movies/static/js/36.3d3e883c.chunk.js",
+    "static/js/287.c41fe94c.chunk.js": "/goit-react-hw-05-movies/static/js/287.c41fe94c.chunk.js",
+    "static/js/626.129a0263.chunk.js": "/goit-react-hw-05-movies/static/js/626.129a0263.chunk.js",
+    "static/js/139.6246c65a.chunk.js": "/goit-react-hw-05-movies/static/js/139.6246c65a.chunk.js",
+    "static/js/279.2301dcc1.chunk.js": "/goit-react-hw-05-movies/static/js/279.2301dcc1.chunk.js",
     "index.html": "/goit-react-hw-05-movies/index.html",
-    "main.7acaea2f.css.map": "/goit-react-hw-05-movies/static/css/main.7acaea2f.css.map",
-    "main.5c0eb81e.js.map": "/goit-react-hw-05-movies/static/js/main.5c0eb81e.js.map"
+    "main.5c15e484.css.map": "/goit-react-hw-05-movies/static/css/main.5c15e484.css.map",
+    "main.cecb150d.js.map": "/goit-react-hw-05-movies/static/js/main.cecb150d.js.map",
+    "749.e452bd8f.chunk.js.map": "/goit-react-hw-05-movies/static/js/749.e452bd8f.chunk.js.map",
+    "36.3d3e883c.chunk.js.map": "/goit-react-hw-05-movies/static/js/36.3d3e883c.chunk.js.map",
+    "287.c41fe94c.chunk.js.map": "/goit-react-hw-05-movies/static/js/287.c41fe94c.chunk.js.map",
+    "626.129a0263.chunk.js.map": "/goit-react-hw-05-movies/static/js/626.129a0263.chunk.js.map",
+    "139.6246c65a.chunk.js.map": "/goit-react-hw-05-movies/static/js/139.6246c65a.chunk.js.map",
+    "279.2301dcc1.chunk.js.map": "/goit-react-hw-05-movies/static/js/279.2301dcc1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.5c0eb81e.js"
+    "static/css/main.5c15e484.css",
+    "static/js/main.cecb150d.js"
   ]
 }
