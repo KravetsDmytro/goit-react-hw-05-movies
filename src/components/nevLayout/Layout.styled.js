@@ -3,21 +3,19 @@ import { NavLink } from 'react-router-dom';
 
 export const HeaderContainer = styled.header`
 position: sticky;
-  padding:  0 30px;
-  z-index: 10;
-  top: 0;
-  left: 0;
-  margin: 0 auto;
-  background-color: #0a0909;
-  border-bottom: 1px solid #ffffff;
-  background-color: #c6f4f7;
-  box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.2),
-    0px 4px 5px 0px rgba(0, 0, 0, 0.14), 0px 1px 10px 0px rgba(0, 0, 0, 0.12);
+top: 0;
+left: 0;
+z-index: 100;
+display: flex;
+align-items: center;
+height: 50px;
+padding-left: 25px;
+background-color: #d0d600;
 `;
 
 export const Link = styled(NavLink)`
-  padding: 0 20px;
-  font-size: 18px;
+  padding: 0 0px;
+  font-size: 22px;
   font-weight: 700;
   letter-spacing: 0.03em;
   color: #fff;
@@ -27,7 +25,7 @@ export const Link = styled(NavLink)`
   transition: color 150ms linear;
 
   &:nth-of-type(2) {
-    margin-left: 24px;
+    margin-left: 34px;
   }
 
   &:hover,
@@ -45,11 +43,11 @@ export const Link = styled(NavLink)`
       z-index: -1;
       width: 100%;
       height: 45px;
-      background-color: #42362b;
-      border-radius: 2px;
+      background-color: #9e732d;
+      border-radius: 4px;
 
       left: 0;
-      bottom: -15px;
+      bottom: -8px;
 
       box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.2),
         0px 4px 5px 0px rgba(0, 0, 0, 0.14),
