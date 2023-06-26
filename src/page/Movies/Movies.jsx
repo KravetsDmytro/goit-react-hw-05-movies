@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { useSearchParams } from 'react-router-dom';
-import MovieList from 'components/MovieList/MovieList';
+import MovieList from 'components/NevMovieList/NevMovieList';
 import ErrorMessage from 'components/Error/Error';
 import SearchForm from 'components/SearchForm/SearchForm';
 import Loader from 'components/NevLoader/NevLoader';

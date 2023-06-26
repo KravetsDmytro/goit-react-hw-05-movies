@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { fetchTrendingMovies } from '../../services/MoviApi';
 import Loader from 'components/NevLoader/NevLoader';
 import ErrorMessage from 'components/Error/Error';
-import MovieList from 'components/MovieList/MovieList';
+import MovieList from 'components/NevMovieList/NevMovieList';
 
 const STATUS = {
   IDLE: 'idle',
