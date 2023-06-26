@@ -20,6 +20,8 @@ export const Image = styled.img`
 
 export const Title = styled.h2`
   padding: 5px 10px;
-  font-size: 21px;
+  font-size: 18px;
   color: #42362b;
+  text-align: center;
+
 `;
