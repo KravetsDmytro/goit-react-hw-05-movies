@@ -1,7 +1,7 @@
 import { HeaderContainer, Link } from './Layout.styled';
 import { Outlet } from 'react-router-dom';
 import { Suspense } from 'react';
-import Loader from 'components/Loader/Loader';
+import Loader from 'components/NevLoader/NevLoader';
 
  const Layout=()=> {
   return (

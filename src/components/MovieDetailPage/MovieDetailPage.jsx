@@ -16,7 +16,7 @@ import {
 
 import { Outlet, useLocation } from 'react-router-dom';
 import { Suspense } from 'react';
-import Loader from 'components/Loader/Loader.jsx';
+import Loader from 'components/NevLoader/NevLoader.jsx';
 import PropTypes from 'prop-types';
 
 export default function MovieDetailPage({ movieInfo }) {

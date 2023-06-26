@@ -5,7 +5,7 @@ import { Navigate, useLocation } from 'react-router-dom';
 import MovieDetailPage from 'components/MovieDetailPage/MovieDetailPage';
 import { Section, Container } from './MovieDetails.styled';
 import ButtonBack from 'components/ButtonBack/ButtonBack';
-import Loader from 'components/Loader/Loader';
+import Loader from 'components/NevLoader/NevLoader';
 
 const STATUS = {
   IDLE: 'idle',

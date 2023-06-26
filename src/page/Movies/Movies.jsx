@@ -3,7 +3,7 @@ import { useSearchParams } from 'react-router-dom';
 import MovieList from 'components/MovieList/MovieList';
 import ErrorMessage from 'components/Error/Error';
 import SearchForm from 'components/SearchForm/SearchForm';
-import Loader from 'components/Loader/Loader';
+import Loader from 'components/NevLoader/NevLoader';
 import { searchByMovies } from '..//../services/MoviApi';
 
 const STATUS = {
